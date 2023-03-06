@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/mrSerGL/webpack_v01/issues"
   },
-  "homepage": "https://github.com/mrSerGL/webpack_v01#readme",
+  "homepage": "https://github.com/mrSerGL/webpack_v01",
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@babel/eslint-parser": "^7.19.1",
