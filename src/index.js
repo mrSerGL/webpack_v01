@@ -1,1 +1,1 @@
-console.log("Hello from WwbPack!");
+import './common.scss';
