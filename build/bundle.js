@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("Hello from WwbPack!"),document.body.textContent="SerG was here! "})();
